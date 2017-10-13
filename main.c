@@ -3,7 +3,6 @@
 int main(void) {
   /* new code */
   printf("Hello World!\n");
-  printf("works?");
-  printf("Only pass");
+  printf("Credintial Helper\n");
   return 0;
 }
